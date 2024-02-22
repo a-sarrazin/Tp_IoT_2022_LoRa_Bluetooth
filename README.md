@@ -1,4 +1,7 @@
 # Tp_IoT_2022_LoRa_Bluetooth
+Prérequis
+Partage de connexion iPhone : activer l'option "maximiser la compatibilité" pour passer sur la bande des 2,4GHz
+
 
 ## 1. Receiver :
  
