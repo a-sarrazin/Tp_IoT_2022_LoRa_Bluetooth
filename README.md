@@ -1,3 +1,6 @@
+Groupe de travail SRT2024 : **Silvère CHEVRIER, Daniel MICHON, Giovanni NAULEAU & Antonin SARRAZIN**
+
+
 # Tp_IoT_2022_LoRa_Bluetooth
 Prérequis
 **Partage de connexion iPhone** : activer l'option "*maximiser la compatibilité*" pour passer sur la bande des 2,4GHz, seule compatible avec la carte
